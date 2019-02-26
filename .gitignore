@@ -1,0 +1,7 @@
+.Python
+.idea/
+bin/
+include/
+lib/
+mysite/.idea/
+pip-selfcheck.json
